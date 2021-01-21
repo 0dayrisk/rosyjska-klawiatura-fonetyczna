@@ -6,14 +6,15 @@ Naciskamy A i otrzymujemy А, naciskamy B i otrzymujemy Б, naciskamy C i otrzym
 
 Zaczniesz pisać po rosyjsku szybko i intuicyjnie.
 
-# Istotne cechy rosyjskiej klawiatury
-- Program instalacyjny pomoże ci zainstalować program w kilku krokach.
-- Ponieważ jest to komponent Windows - zintegruje się od ze wszystkimi programami zainstalowanymi na komputerze (Office, World, Excel, Chrome, Firefox, itd.)
-- Nie da się jej zepsuć.
-- Nie trzeba uczyć się rozkładu klawiatury, bo na każdym klawiszu łacińskiej klawiatury znajduje się jego odpowiednik w rosyjskim alfabecie.
+## Istotne cechy rosyjskiej klawiatury
+* Program instalacyjny pomoże ci zainstalować program w kilku krokach.
+* Ponieważ jest to komponent Windows - zintegruje się od ze wszystkimi programami zainstalowanymi na komputerze (Office, World, Excel, Chrome, Firefox, itd.)
+* Nie da się jej zepsuć.
+* Nie trzeba uczyć się rozkładu klawiatury, bo na każdym klawiszu łacińskiej klawiatury znajduje się jego odpowiednik w rosyjskim alfabecie.
 
 Gotowy program instalacyjny mozna znaleźć tutaj:
-https://allegro.pl/listing?string=rosyjska%20klawiatura%20fonetyczna
+[Allegro](https://allegro.pl/listing?string=rosyjska%20klawiatura%20fonetyczna)
+
 
 # Russian phonetic keyboard for Polish writers
 The package contains a customized keyboard layout ready to load and generate russian photenetic keyboard component to install and use in modern Windows systems/
