@@ -29,7 +29,7 @@ Who to install?
 4. Install generated .msi file
 
 # Nauka Alfabetu
-Oryginalne źródło: https://www.nebule.pl/rosyjski-alfabet-genialna-metoda/
+Credits: Daniel Trawka, https://www.nebule.pl/rosyjski-alfabet-genialna-metoda/
 
 ## Rosyjski Alfabet – część 1.
 Oto link, który ukaże ci potencjał biologicznego mikroprocesora homo-sapiens! Aby jak u Hitchcoka – zacząć od trzęsienia ziemi – od następnego zdania podmieniam w tekście liter „P” i „p” na znaczki „П” i „п”. Nawet one trochę пodobne do liczby „Pi”?.
