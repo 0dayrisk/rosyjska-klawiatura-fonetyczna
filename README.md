@@ -1,5 +1,5 @@
 # rosyjska-klawiatura-fonetyczna
-Rosyjska Klawiatura Fonetyczna - komponent dla Windows XP/Vista/7/8/10
+Rosyjska Klawiatura Fonetyczna - komponent dla Windows 11/10/8/7/Vista/XP.
 
 # Idea rosyjskiej klawiatury fonetycznej
 Naciskamy A i otrzymujemy А, naciskamy B i otrzymujemy Б, naciskamy C i otrzymujemy Ц, naciskamy D i otrzymujemy Д, itd. Proste i niezwykle wygodne. Oczywiście litery Я, Ю, Ш, Щ i inne, których nie ma w łacińskim alfabecie - znajdują się na innych klawiszach (Q, ~, [ ,]). 
