@@ -18,16 +18,6 @@ Przykład:
 * Ponieważ jest to komponent Windows - zintegruje się od ze wszystkimi programami zainstalowanymi na komputerze (Office, World, Excel, Chrome, Firefox, itd.)
 * Nie trzeba uczyć się rozkładu klawiatury, bo na każdym klawiszu łacińskiej klawiatury znajduje się jego odpowiednik w rosyjskim alfabecie.
 
-
-# Russian phonetic keyboard for Polish writers
-The package contains a customized keyboard layout ready to load and generate russian photenetic keyboard component to install and use in modern Windows systems/
-
-Who to install?
-1. Install Keyboard Layout Creator from Microsoft(tm)
-2. Load the layout (.klc file)
-3. Build DLL and Setup package
-4. Install generated .msi file
-
 # Nauka Alfabetu
 Credits: Daniel Trawka, https://www.nebule.pl/rosyjski-alfabet-genialna-metoda/
 
