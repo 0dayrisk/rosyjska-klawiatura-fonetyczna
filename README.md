@@ -1,22 +1,22 @@
 # rosyjska-klawiatura-fonetyczna
 Rosyjska Klawiatura Fonetyczna - komponent/"sterownik" dla Windows 11/10/8/7/Vista/XP.
 
+# Jak zainstalowac?
+
+Pobierz plik [rosyjska-klawiatura-fonetyczna.zip]((https://raw.githubusercontent.com/0dayrisk/rosyjska-klawiatura-fonetyczna/main/Rosyjska-klawiatura-fonetyczna.zip) i uruchom program instalacyjny (setup.exe).
+
 # Idea rosyjskiej klawiatury fonetycznej
-Naciskamy A i otrzymujemy А, naciskamy B i otrzymujemy Б, naciskamy C i otrzymujemy Ц, naciskamy D i otrzymujemy Д, itd. Proste i niezwykle wygodne. Oczywiście litery Я, Ю, Ш, Щ i inne, których nie ma w łacińskim alfabecie - znajdują się na innych klawiszach (Q, ~, [ ,]). 
+Pisanie cyrylicą przy użyciu klawiatury łacińskiej QWERTY w taki sposób, że łacińskiej literze przyporządkowany jest intuicyjny odpowiednik z cyrylicy, jeśli jest to możliwe.
+
+Przykład:
+> Naciskamy A i otrzymujemy А, naciskamy B i otrzymujemy Б, naciskamy C i otrzymujemy Ц, naciskamy D i otrzymujemy Д, itd. Oczywiście litery Я, Ю, Ш, Щ i inne, których nie ma w łacińskim alfabecie - znajdują się na innych klawiszach (Q, ~, [ ,]) zgodnie z rozkładem: 
 
 ![keyboard layout](https://raw.githubusercontent.com/0dayrisk/rosyjska-klawiatura-fonetyczna/main/Rosyjska-klawiatura-fonetyczna-sterownik.jpg)
-
-
-Zaczniesz pisać po rosyjsku szybko i intuicyjnie.
 
 ## Istotne cechy rosyjskiej klawiatury
 * Program instalacyjny pomoże ci zainstalować program w kilku krokach.
 * Ponieważ jest to komponent Windows - zintegruje się od ze wszystkimi programami zainstalowanymi na komputerze (Office, World, Excel, Chrome, Firefox, itd.)
-* Nie da się jej zepsuć.
 * Nie trzeba uczyć się rozkładu klawiatury, bo na każdym klawiszu łacińskiej klawiatury znajduje się jego odpowiednik w rosyjskim alfabecie.
-
-Gotowy program instalacyjny mozna znaleźć tutaj:
-[Allegro](https://allegro.pl/listing?string=rosyjska%20klawiatura%20fonetyczna)
 
 
 # Russian phonetic keyboard for Polish writers
