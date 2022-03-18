@@ -3,7 +3,7 @@ Rosyjska Klawiatura Fonetyczna - komponent/"sterownik" dla Windows 11/10/8/7/Vis
 
 # Jak zainstalowac?
 
-Pobierz plik [rosyjska-klawiatura-fonetyczna.zip]((https://raw.githubusercontent.com/0dayrisk/rosyjska-klawiatura-fonetyczna/main/Rosyjska-klawiatura-fonetyczna.zip) i uruchom program instalacyjny (setup.exe).
+Pobierz plik [rosyjska-klawiatura-fonetyczna.zip](https://raw.githubusercontent.com/0dayrisk/rosyjska-klawiatura-fonetyczna/main/Rosyjska-klawiatura-fonetyczna.zip) i uruchom program instalacyjny (setup.exe).
 
 # Idea rosyjskiej klawiatury fonetycznej
 Pisanie cyrylicą przy użyciu klawiatury łacińskiej QWERTY w taki sposób, że łacińskiej literze przyporządkowany jest intuicyjny odpowiednik z cyrylicy, jeśli jest to możliwe.
